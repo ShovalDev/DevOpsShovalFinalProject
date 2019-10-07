@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>get lucky number!</title>
+<title>get lucky number!!</title>
 </head>
 <body style="background-color:powderblue;">
 
